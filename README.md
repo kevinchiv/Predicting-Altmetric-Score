@@ -33,11 +33,11 @@ The best model was OLS with a R^2 of 0.56 on train and 0.53 on test.
 Ridge and LASSO fared no worse, but offered no additional benefit. 
 
 The results indicate that: <br>
-- for every additional time a paper is cited, a paper increases its Altmetric score by 1.75 
-- for every additional reference used, a paper increases its Altmetric score by 0.99
-- for every additional author that worked on the paper, a paper increases its Altmetric score by 1.09 
-- for every additional institution involved, a paper increases its Altmetric score by 1.15 
-- for every additional year since publication, a paper increases its Altmetric score by 0.62
+- for every additional time an article is cited, an article increases its Altmetric score by 1.22
+- for every additional institution involved, an article increases its Altmetric score by 1.05
+- for every additional author that worked on the paper, an article increases its Altmetric score by 1.03 
+- for every additional reference used, an article increases its Altmetric score by 0.99 
+- for every additional year since publication, an article increases its Altmetric score by 0.62
 
 Obviously, some recommendations are more feasible than others. Using additional references and involving more people is one way to increase article impact. Participating in highly distinguished labs and conferences is helpful in generating these type of connections.
 However, it may minimize impact from personal contributions as well.
