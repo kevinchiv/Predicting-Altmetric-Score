@@ -33,14 +33,12 @@ The best model was OLS with a R^2 of 0.59 on train and 0.53 on test.
 Ridge and LASSO fared no worse, but offered no additional benefit. 
 
 The results indicate that: <br>
-
-The results indicate that: <br>
-- for a 1% increase in the number of times cited, an article increases its Altmetric score by 0.47% <br>
-- for every additional reference used, an article decreases its Altmetric score by -0.32% <br>
-- for a 1% increase in the number of authors, an article increases its Altmetric score by 0.1% <br>
-- for a 1% increase in the number of institutions involved, an article increases its Altmetric score by 0.15% <br>
-- for every additional year, an article decreases its Altmetric score by 33.57% <br>
+- for a 1% increase in the number of times cited, an article changes its Altmetric score by 0.47% <br>
+- for a 1% increase in the number of institutions involved, an article changes its Altmetric score by 0.15% <br>
+- for a 1% increase in the number of authors, an article changes its Altmetric score by 0.1% <br>
+- for every additional reference used, an article changes its Altmetric score by -0.32% <br>
+- for each additional year, an article receives an Altmetric score that is -33.57%  lower<br>
 
 The Altmetric score uses the number of citiations as a factor, so its helpful to note that it is the most important factor <br>
 Obviously, some recommendations are more feasible than others. <br>
-Interestingly enough, year was the most negative factor, possibly suggesting that some articles become more obscure with time.
+Interestingly enough, year was the most negative factor, suggesting most articles do not or have yet to become popular with time.
