@@ -41,4 +41,5 @@ The results indicate that: <br>
 
 The Altmetric score uses the number of citiations as a factor, so its helpful to note that it is the most important factor <br>
 Obviously, some recommendations are more feasible than others. <br>
-Interestingly enough, year was the most negative factor, suggesting most articles do not or have yet to become popular with time.
+Interestingly enough, year was the most negative factor. <br>
+This suggests most articles remain unpopular if they do not become popular during the year they were published.
